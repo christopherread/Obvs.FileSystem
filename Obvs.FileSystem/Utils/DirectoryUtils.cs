@@ -1,4 +1,0 @@
-namespace Obvs.FileSystem.Utils
-{
-    
-}
