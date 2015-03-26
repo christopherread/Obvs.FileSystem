@@ -55,7 +55,6 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Utils\ContiguousBuffer.cs" />
-    <Compile Include="Utils\DirectoryUtils.cs" />
     <Compile Include="Utils\ObservableFileSystemWatcher.cs" />
     <Compile Include="MessagePublisher.cs" />
     <Compile Include="MessageSource.cs" />
